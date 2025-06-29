@@ -10,7 +10,7 @@ cd projectweb
 git add .
 
 # Step 5: Commit the changes
-git commit -m "Add projectweb.html and related files"
+git commit -m "Add index.html and style.css"
 
 # Step 6: Push the changes to GitHub
 git push
